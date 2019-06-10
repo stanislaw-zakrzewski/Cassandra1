@@ -1,0 +1,17 @@
+/home/stz/Downloads/Cassandra1/src/main/java/com/example/demo/converters/MatchFormToMatch.java
+/home/stz/Downloads/Cassandra1/src/main/java/com/example/demo/service/MatchServiceImplementation.java
+/home/stz/Downloads/Cassandra1/src/main/java/data/GetData.java
+/home/stz/Downloads/Cassandra1/src/main/java/com/example/demo/model/Match.java
+/home/stz/Downloads/Cassandra1/src/main/java/com/example/demo/Application.java
+/home/stz/Downloads/Cassandra1/src/main/java/com/example/demo/controller/MatchController.java
+/home/stz/Downloads/Cassandra1/src/main/java/data/DataFetchApp.java
+/home/stz/Downloads/Cassandra1/src/main/java/data/CSVParser.java
+/home/stz/Downloads/Cassandra1/src/main/java/com/example/demo/config/ContactPointsConfig.java
+/home/stz/Downloads/Cassandra1/src/main/java/com/example/demo/service/MatchService.java
+/home/stz/Downloads/Cassandra1/src/main/java/com/example/demo/config/CassandraConfig.java
+/home/stz/Downloads/Cassandra1/src/main/java/com/example/demo/converters/MatchToMatchForm.java
+/home/stz/Downloads/Cassandra1/src/main/java/com/example/demo/config/SwaggerConfig.java
+/home/stz/Downloads/Cassandra1/src/main/java/com/example/demo/repository/MatchRepository.java
+/home/stz/Downloads/Cassandra1/src/main/java/data/DataInsertApp.java
+/home/stz/Downloads/Cassandra1/src/main/java/com/example/demo/config/PolicyConfig.java
+/home/stz/Downloads/Cassandra1/src/main/java/com/example/demo/commands/MatchForm.java
