@@ -2,7 +2,6 @@ version: '3.0'
 services:
 
   app1:
-    container_name: app1
     build: .
     ports:
       - 8080:8080
@@ -11,7 +10,6 @@ services:
     restart: on-failure
 
   seed1:
-    container_name: seed1
     build: ./cassandra
     environment:
       - DATACENTER=DC1
@@ -22,7 +20,6 @@ services:
       - seed1:/var/lib/cassandra
 
   node1:
-    container_name: node1
     build: ./cassandra
     environment:
       - DATACENTER=DC1
